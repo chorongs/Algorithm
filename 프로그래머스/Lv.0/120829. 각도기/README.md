@@ -1,10 +1,10 @@
 # [level Lv.0] 각도기 - 120829 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120829?language=go) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120829?language=python3) 
 
 ### 성능 요약
 
-메모리: 3.55 MB, 시간: 0.00 ms
+메모리: 10.2 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 1월 6일 10:35:10
+2024년 1월 1일 8:54:20
 
 ### 문제 설명
 
