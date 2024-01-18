@@ -1,10 +1,10 @@
 # [level 1] 문자열을 정수로 바꾸기 - 12925 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12925) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12925?language=go) 
 
 ### 성능 요약
 
-메모리: 72 MB, 시간: 0.01 ms
+메모리: 4.43 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2023년 12월 1일 8:25:7
+2024년 1월 4일 9:13:50
 
 ### 문제 설명
 
