@@ -4,5 +4,8 @@
 
 int solution(int age) {
     int answer = 0;
-    return 2023 - age;
+    int year = 2022;
+    int birth = year - age + 1;
+    answer = birth;
+    return answer;
 }
